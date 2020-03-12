@@ -1,0 +1,20 @@
+Ctrl + X                                    Delete line
+Ctrl + Alt + Up Arrow                       Add cursor above
+Shift + Ctrl + Up                           Copy Line Above
+Ctrl+ d                                     Select specific Word
+Ctrl + g                                    Navigate to specific line
+Ctrl + backspace                            Delete Previous Word
+Ctrl + Shift + Right arrow / Left arrow     Select in Words
+Shift + Alt                                 Column (Box) Selection
+Alt+ ↑ / ↓                                  Move line up/down
+Ctrl+Enter                                  Insert line below
+Ctrl+Shift+Enter                            Insert line above
+Home / End Go to                            beginning/end of line
+Ctrl+Home                                   Go to beginning of file
+Ctrl+Shift+[                                Fold (collapse) region
+Ctrl+Shift+]                                Unfold (uncollapse) region
+Shift+Alt+A                                 Toggle block comment
+Alt+Z                                       Toggle word wrap
+Ctrl+P                                      Go to File...
+Ctrl+H                                      Replace
+
